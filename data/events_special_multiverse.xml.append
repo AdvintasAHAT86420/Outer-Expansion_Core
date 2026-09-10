@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FTL>
+<!--
 <mod:findName type="event" name="SYLVAN_TRADES_DROPPOINT">
     <mod:findLike type="loadEventList">
         <mod-append:event name="SYLVAN_OE_WEAPONS"/>
@@ -21,7 +22,7 @@
         <mod-append:event name="SYLVAN_OE_LOOT" req="loc_sector_count" lvl="3" />
     </mod:findLike>
 </mod:findName>
-
+-->
 <event name="SYLVAN_OE_WEAPONS">
 	<text>"Aaaaah. Ssstranger ssstranger, any ssself ressspecting Renegade knowssss they need sssome gear if they're going to ssssurvive."</text>
 	<store>STORE_SYLVAN_OE_WEAPONS</store>
